@@ -1,0 +1,2 @@
+Do not use my own images/videos for testing, generate your own.
+Always make sure you add the proper documentation to the readme and on the codebase via comments for better readability and ease of maintenance. Do this everytime any code is added to the codebase.
